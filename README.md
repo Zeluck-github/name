@@ -9,3 +9,5 @@ AddTextEntry("tesla895", "Tesla Model S") | | | | File name | Name you want to g
 AddTextEntry("tesla895", "Tesla Model S") | | | | Nom du fichier | Nom que vous voulez donnez
 
 📍Vous pouvez rajoutez des lignes pour mettres d'autre voitures
+
+Discord Support : https://discord.gg/nuqJUBqb6A
